@@ -1,4 +1,5 @@
 # GRU
+Code for the preprint: "Learning brain dynamics for decoding and predicting individual differences"
 
 # Movie Watching Dataset
 
