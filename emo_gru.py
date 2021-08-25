@@ -313,7 +313,7 @@ if __name__ == '__main__':
     
     # data parameters
     parser.add_argument('-d', '--input-data', type=str,
-        default='../approach-retreat/data/processed/03a-segments_normWithinSubjRun_rAI.pkl',
+        default='data/roi_ts/data_MOVING_CIRCLES_roi_rAI_ts.pkl',
                         help='path/to/emoprox/rAI/voxelwise/ts')
     parser.add_argument('-r', '--roi_name', type=str,
         default='rvAI', help='number of ROI')
